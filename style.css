@@ -1,0 +1,268 @@
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #9aa3ba;
+    line-height: 26px;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 600;
+    color: #192b59;
+ 
+}
+
+.nav{
+    font-size: 12px;
+    font-weight: 700;
+    color: #6e7ea9;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+ 
+li{
+    display: inline;
+    padding: 5px;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: #1085e4;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 25px 45px;
+    border-radius: 30px;
+    letter-spacing: 3.5px;
+    border: 1px solid #1085e4;
+}
+
+.btn-primary:hover{
+    color: #1085e4 ;
+    background-color: #fff ;
+}
+
+.btn-secondary{
+    color: #7e8bae;
+    background-color: #cbdbe8;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 25px 45px;
+    border-radius: 30px;
+    letter-spacing: 3.5px;
+    border: 1px solid #cbdbe8;
+}
+
+.btn-secondary:hover{
+    background-color: #fff;
+}
+
+.btn-free {
+    font-weight: 400;
+    letter-spacing: 2.3px;
+    padding: 25px 60px;
+}
+
+.bth-group a+a{
+    margin-left: 15px;
+}
+
+.btn-info{
+    color: #8085b1; 
+    background: transparent;
+    border: 1px solid #dce1e5;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 20px 40px;
+    border-radius: 30px;
+}
+
+.grid h2{
+    font-size: 40px;
+    color: #192b59;
+    font-weight: 700;
+}
+
+.grid h2 span{
+    font-size: 14px;
+    color: #1085e4;
+    display: block;
+}
+
+.grid-item h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.grid-item a{
+    font-size: 14px;
+    font-weight: 600;
+    color: #1085e4;
+}
+
+.page-subscribe h2 span{
+    font-size: 14px;
+    font-weight: 600;
+    color: #1085e4;
+    text-transform: uppercase;
+    display: block;
+}
+
+.page-subscribe h2{
+    font-size: 50px;
+    font-weight: 600;
+    color:#192b59;
+    display: block;
+}
+
+.page-software h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.page-stat h2 span{
+    font-size: 16px;
+    font-weight: 600;
+    color: #1085e4;
+    display: block;
+    text-transform: uppercase;
+}
+
+.page-stat h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.page-stat ul li span{
+    font-size: 50px;
+    font-weight: 600;
+    color: #9aa3ba;
+    display: block;
+}
+
+.page-stat li{
+    font-size: 12px;
+    font-weight: 600;
+    color: #1085e4;
+    text-transform: uppercase;
+    display: block;
+}
+
+.page-app h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.hw1 h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.hw1 a{
+    color: #fff;
+    background-color: #1085e4;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 25px 45px;
+    border-radius: 30px;
+    letter-spacing: 3.5px;
+    border: 1px solid #1085e4;
+}
+
+.hw2 h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.hw2 a:hover{
+    color: #1085e4 ;
+    background-color: #fff ;
+}
+
+.hw2 a{
+    font-size: 14px;
+    font-weight: 600;
+    color: #1085e4;
+    text-transform: uppercase;
+}
+
+.page-screen h2 span{
+    font-size: 14px;
+    font-weight: 600;
+    color: #1085e4;
+    text-transform: uppercase;
+    display: block;
+}
+.page-screen h2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.btn-info{
+    color: #7e8bae;
+    background-color: transparent;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 25px 45px;
+    border-radius: 30px;
+    letter-spacing: 3.5px;
+    border: 1px solid #cbdbe8;
+}
+
+.btn-info:hover{
+    color: #fff ;
+    background-color: #1085e4 ;
+}
+
+.box-price-item1 a{
+    color: #7e8bae;
+    background-color: transparent;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 25px 45px;
+    border-radius: 30px;
+    letter-spacing: 3.5px;
+    border: 1px solid #cbdbe8;
+}
+
+.box-price-item1 a:hover{
+    color: #fff ;
+    background-color: #1085e4 ;
+}
+
+.middle-blue{
+    color: #fff;
+    background-color: #1085e4;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 25px 45px;
+    border-radius: 30px;
+    letter-spacing: 3.5px;
+    border: 1px solid #1085e4;
+}
+
+.middle-blue:hover{
+    color: #1085e4 ;
+    background-color: #fff ;
+}
